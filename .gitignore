@@ -1,0 +1,91 @@
+# Node modules
+node_modules/
+
+# Next.js build output
+.next/
+out/
+
+# Production
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+/.pnp
+.pnp.js
+
+# TypeScript
+*.tsbuildinfo
+
+# Environment files
+.env
+.env.*.local
+.env.local
+
+# Vercel / deployment
+.vercel/
+.vercel_build_output/
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Coverage
+coverage/
+*.lcov
+
+# Test output
+jest-coverage/
+test-results/
+
+# Caches
+.cache/
+.next/cache/
+.npm/
+.yarn/cache/
+.yarn/unplugged/
+.yarn/build-state/
+
+# Build artifacts
+dist/
+build/
+public/build/
+
+# Temporary
+tmp/
+temp/
+
+# JetBrains/WebStorm settings
+.idea/
+*.iml
+workspace.xml
+tasks.xml
+usage.statistics.xml
+shelf/
+
+# Misc
+*.class
+*.log
+*.pem
+*.key
