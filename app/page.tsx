@@ -272,7 +272,7 @@ export default function Portfolio() {
                     <div>
                         <Card className="bg-white/5 border-white/10 backdrop-blur-sm">
                             <CardContent className="p-8">
-                                <h3 className="text-2xl font-bold text-white mb-4">Software Developer & QA Engineer</h3>
+                                <h3 className="text-2xl font-bold text-white mb-4">Software Engineer</h3>
                                 <p className="text-gray-300 leading-relaxed mb-6">
                                     Results-driven Software Developer with over three years of experience in financial technology.
                                     Proficient in Java Spring Boot and Angular for frontend development, with a strong background in
